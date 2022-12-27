@@ -29,12 +29,12 @@ My Gitlab repo contains some private projects around different topics I find int
 
   
 **Stackoverflow Time Series Analysis**
-  - Project using Facebooks Prophet library  to forecast the number of questions asked on Stackoverflow in a given month.
+  - Project using Facebook's Prophet library  to forecast the number of questions asked on Stackoverflow in a given month.
   - Topics: Python, Docker, Prophet, Time-Series Forecasting
   <img src="img/time_series.png"  style="height:75%; width:75%" >
   
 **Student Performance Analysis**
-  - Exploratory Data Analysis using Python and Jupyter Notebook. The goal is to get insights on Student Performance and analyse key factors for succesfull exam scores. 
-  - Topics:Exploratory Data Analysis (EDA), Statistical Inference, Machine Learning
+  - Exploratory Data Analysis using Python and Jupyter Notebook. The goal is to get insights on Student Performance and analyse key factors for successful exam scores. 
+  - Topics: Exploratory Data Analysis (EDA), Statistical Inference, Machine Learning
   ![student_performance](img/student_performance.png)
  
