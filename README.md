@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Business Intelligence Analyst enjoying tackling complex problems in the domain of Advanced Analytics, Data Engineering, Machine Learning, Data Mining and Computer Science.
 
 My Gitlab repo contains some private projects around different topics I find interesting. Here is a short overview:
 
