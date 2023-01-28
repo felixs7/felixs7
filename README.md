@@ -37,3 +37,7 @@ My Gitlab repo contains some private projects around different topics I find int
   - Topics: Exploratory Data Analysis (EDA), Statistical Inference, Machine Learning
   ![student_performance](img/student_performance.png)
  
+ **Grocery Store ELT Pipeline in dbt**
+  - Project using dbt to build a Data Warehouse with 2 dim and 1 fact table based off 2 transactional source tables
+  - Topics: dbt, Data Warehousing, SQL
+  ![dbt_warehouse](img/dbt_pipe.png)
