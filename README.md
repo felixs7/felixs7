@@ -39,5 +39,5 @@ My Gitlab repo contains some private projects around different topics I find int
  
  **Grocery Store ELT Pipeline in dbt**
   - Project using dbt to build a Data Warehouse with 2 dim and 1 fact table based off 2 transactional source tables
-  - Topics: dbt, Data Warehousing, SQL
+  - Topics: dbt, Data Warehousing, SQL, Snowflake
   ![dbt_warehouse](img/dbt_pipe.png)
