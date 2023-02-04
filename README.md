@@ -69,7 +69,7 @@ I regularly keep myself updated with the latest trends and technologies in the f
 •	<a href='https://www.credly.com/users/felix-stiefel/badges'>Azure Data Fundamentals</a><br>
 
 
-<B>Doftware Development</B><<br>
+<B>Software Development</B><br>
 •	<a href='https://drive.google.com/file/d/11EDF2-b5XPYar0hdns8S3x_YG6U5m0ux/view'>RPA - UiPath - Level 1</a><br>
 
 
