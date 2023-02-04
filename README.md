@@ -49,7 +49,7 @@ I regularly keep myself updated with the latest trends and technologies in the f
  
 <B>Data Analysis</B><br>
 
-•	<a href='https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/overview'>Certified Data Analyst - Analytics Institute of Ireland</a>-<br>
+•	Certified Data Analyst - Analytics Institute of Ireland<br>
 •	<a href='https://www.credly.com/users/felix-stiefel/badges'>Tableau Analyst & Author</a><br>
 •	<a href='https://drive.google.com/file/d/15GFbKarqLlYR5jOIpJ8JIrA8e8sYKy7Z/view'>Python & Pandas</a><br>
 •	<a href='https://drive.google.com/file/d/1ee0ZVVTWdFpnBQsY2ib3Y6-_rXznyfcT/view'>Python A-Z: Python for Data Science</a><br>
@@ -63,9 +63,9 @@ I regularly keep myself updated with the latest trends and technologies in the f
 
 <B>Data Engineering & Modelling</B><br>
 •	<a href='https://indeed.udemy.com/certificate/UC-ccc43d81-8407-41fe-ac2f-f1e83d7dd3d3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email'>dbt</a><br>
-•	<a href=''>Airflow</a><br>
+•	Airflow <br>
 •	<a href='https://www.credly.com/users/felix-stiefel/badges'>Alteryx Designer Core Certification</a><br>
-•	<a href=''>Data Warehouse</a><br>
+•	<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-96f0d5dc-8ca8-443c-8fc5-7839cdcfb113.pdf'>Data Warehouse</a><br>
 •	<a href='https://www.credly.com/users/felix-stiefel/badges'>Azure Data Fundamentals</a><br>
 
 
