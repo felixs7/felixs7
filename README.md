@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 
 My Gitlab repo contains some private projects around different topics I find interesting. Here is a short overview:
 
+**New York Times Articles ETL using Airflow, S3, Pyrhon and Redshift**
+- Project demonstrates a practical ETL pipeline using Apache Airflow to extract daily data from the New York Times API, transform it, and store it in an Amazon S3 bucket. 
+- Pipeline accommodates both production and quality assurance environments with separate S3 buckets and Redshift databases. 
+- After transforming the data, it is loaded into Amazon Redshift, allowing for easy querying using Amazon Athena. 
+- Pipeline runs on an Ubuntu EC2 instance, showcasing a straightforward yet effective data engineering solution. This project is a good example of building a manageable ETL pipeline with modern cloud technologies.
+![etl_airflow](img/dag_view.png)
+
+
 **Marketing Analytics**
 
   - Demo project to descriptively analyse marketing data for a fictitious company. Project contains a single, relatively clean dataset that is stored in a SQL database.
