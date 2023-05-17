@@ -21,7 +21,7 @@ My Gitlab repo contains some private projects around different topics I find int
 ## Felix S. - Project Summary
 | Name                     | Link                                                           | Tools & Skills Applied                                           |
 |--------------------------|----------------------------------------------------------------|-------------------------------------------------------|
-| New York Times Articles  | https://github.com/felixs7/nyt_article_pipeline | dbt, Airflow, Python, Tableau AWS Redshift, Ubuntu, EC2, S3 |
+| New York Times Articles  | https://github.com/felixs7/nyt_article_pipeline | dbt, Airflow, Python, Tableau AWS Redshift, Linux, EC2, S3 |
 | Stackoverflow Time Series Analysis                  | https://github.com/felixs7/stackoverflow-time-series     | Python, Docker, Prophet, Time-Series Forecasting  |
 | Grocery Store ELT Pipeline        | https://github.com/felixs7/sales-data-warehousing-elt                  | Data Modelling, dbt, Snowflake                   |
 | Student Performance Analysis         | https://github.com/felixs7/Student-Performance-Analysis     | EDA, Statistical Inference, Machine Learning                      |
