@@ -18,10 +18,23 @@ Here are some ideas to get you started:
 
 My Gitlab repo contains some private projects around different topics I find interesting. Here is a short overview:
 
+## Felix S. - Project Summary
+| Name                     | Link                                                           | Tools & Skills Applied                                           |
+|--------------------------|----------------------------------------------------------------|-------------------------------------------------------|
+| New York Times Articles  | https://github.com/felixs7/nyt_article_pipeline | dbt, Airflow, Python, Tableau AWS Redshift, Ubuntu, EC2, S3 |
+| Stackoverflow Time Series Analysis                  | https://github.com/felixs7/stackoverflow-time-series     | Python, Docker, Prophet, Time-Series Forecasting  |
+| Grocery Store ELT Pipeline        | https://github.com/felixs7/sales-data-warehousing-elt                  | Data Modelling, dbt, Snowflake                   |
+| Student Performance Analysis         | https://github.com/felixs7/Student-Performance-Analysis     | EDA, Statistical Inference, Machine Learning                      |
+| Marketing Analytics  | https://github.com/felixs7/Marketing_Data_Analytics                 | Power BI, SQL                                       |
+
+<br>
+<br>
+
+
+**New York Times Articles ETL using Airflow, S3, Python, dbt and Redshift and Ubuntu (hosted on EC2)**
+
 The latest project I've been working on is an example of a full end-to-end analytics pipeline using modern cloud technologies. <br>
 It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services such as Redshift, EC2 and VPCS as well as Data Visualisation skills using Tableau as the BI-tool. <br>
-
-**New York Times Articles ETL using Airflow, S3, Python, dbt and Redshift and Ubuntu (hosted on EC2) **
 
 - Project demonstrates a practical ETL pipeline to extract daily article data from the New York Times API
 - It extracts daily article data from the New York Times API, performs transformations, and stores the data in an S3 bucket.
@@ -34,6 +47,23 @@ It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services
 ![etl_airflow](img/airflow_new.png)
 
 
+**Stackoverflow Time Series Analysis**
+  - Project using Facebook's Prophet library  to forecast the number of questions asked on Stackoverflow in a given month.
+  - Topics: Python, Docker, Prophet, Time-Series Forecasting
+  <img src="img/time_series.png"  style="height:75%; width:75%" >
+  
+ 
+ **Grocery Store ELT Pipeline in dbt**
+  - Project using dbt to build a Data Warehouse with 2 dim and 1 fact table based off 2 transactional source tables
+  - Topics: dbt, Data Warehousing, SQL, Snowflake
+  ![dbt_warehouse](img/dbt_pipe.png)
+  
+    
+**Student Performance Analysis**
+  - Exploratory Data Analysis using Python and Jupyter Notebook. The goal is to get insights on Student Performance and analyse key factors for successful exam scores. 
+  - Topics: Exploratory Data Analysis (EDA), Statistical Inference, Machine Learning
+  ![student_performance](img/student_performance.png)
+
 **Marketing Analytics**
 
   - Demo project to descriptively analyse marketing data for a fictitious company. Project contains a single, relatively clean dataset that is stored in a SQL database.
@@ -42,21 +72,6 @@ It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services
   - Topics: SQL, Power BI
   ![marketing_analytics](img/marketing_analytics.png)
 
-  
-**Stackoverflow Time Series Analysis**
-  - Project using Facebook's Prophet library  to forecast the number of questions asked on Stackoverflow in a given month.
-  - Topics: Python, Docker, Prophet, Time-Series Forecasting
-  <img src="img/time_series.png"  style="height:75%; width:75%" >
-  
-**Student Performance Analysis**
-  - Exploratory Data Analysis using Python and Jupyter Notebook. The goal is to get insights on Student Performance and analyse key factors for successful exam scores. 
-  - Topics: Exploratory Data Analysis (EDA), Statistical Inference, Machine Learning
-  ![student_performance](img/student_performance.png)
- 
- **Grocery Store ELT Pipeline in dbt**
-  - Project using dbt to build a Data Warehouse with 2 dim and 1 fact table based off 2 transactional source tables
-  - Topics: dbt, Data Warehousing, SQL, Snowflake
-  ![dbt_warehouse](img/dbt_pipe.png)
   
 
 <b>Training Record</b><br> 
