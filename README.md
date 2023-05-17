@@ -36,9 +36,9 @@ My Gitlab repo contains some private projects around different topics I find int
 The latest project I've been working on is an example of a full end-to-end analytics pipeline using modern cloud technologies. <br>
 It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services such as Redshift, EC2 and VPCS as well as Data Visualisation skills using Tableau as the BI-tool. <br>
 
-- Project demonstrates a practical ETL pipeline to extract daily article data from the New York Times API
-- It extracts daily article data from the New York Times API, performs transformations, and stores the data in an S3 bucket.
-- The data is then loaded into Redshift, and a dbt model creates a reporting view for analysis.
+- Project demonstrates a practical ETL pipeline to extract daily article data from the New York Times API.
+- It performs transformations using Python, and stores the data in two S3 buckets.
+- The data is then loaded into Redshift, and an incremental dbt model creates a reporting table for analysis.
 - The pipeline is orchestrated using Airflow, running on an Ubuntu EC2 instance.
 - The solution follows best practices for data engineering and supports both production and QA environments with separate S3 buckets and Redshift databases.
 
