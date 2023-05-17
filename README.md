@@ -21,7 +21,7 @@ My Gitlab repo contains some private projects around different topics I find int
 ## Felix S. - Project Summary
 | Name                     | Link                                                           | Tools & Skills Applied                                           |
 |--------------------------|----------------------------------------------------------------|-------------------------------------------------------|
-| New York Times Articles  | https://github.com/felixs7/nyt_article_pipeline | dbt, Airflow, Python, Tableau AWS Redshift, Linux, EC2, S3 |
+| New York Times Articles  | https://github.com/felixs7/nyt_article_pipeline | dbt, Airflow, Python, Tableau, AWS Redshift, Linux, EC2, S3 |
 | Stackoverflow Time Series Analysis                  | https://github.com/felixs7/stackoverflow-time-series     | Python, Docker, Prophet, Time-Series Forecasting  |
 | Grocery Store ELT Pipeline        | https://github.com/felixs7/sales-data-warehousing-elt                  | Data Modelling, dbt, Snowflake                   |
 | Student Performance Analysis         | https://github.com/felixs7/Student-Performance-Analysis     | EDA, Statistical Inference, Machine Learning                      |
@@ -34,7 +34,7 @@ My Gitlab repo contains some private projects around different topics I find int
 **New York Times Articles ETL using Airflow, S3, Python, dbt and Redshift and Ubuntu (hosted on EC2)**
 
 The latest project I've been working on is an example of a full end-to-end analytics pipeline using modern cloud technologies. <br>
-It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services such as Redshift, EC2 and VPCS as well as Data Visualisation skills using Tableau as the BI-tool. <br>
+It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services such as Redshift, EC2 and VPCS as well as Data Visualisation skills using Tableau as the BI tool. <br>
 
 - Project demonstrates a practical ETL pipeline to extract daily article data from the New York Times API.
 - It performs transformations using Python, and stores the data in two S3 buckets.
@@ -48,7 +48,7 @@ It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services
 
 
 **Stackoverflow Time Series Analysis**
-  - Project using Facebook's Prophet library  to forecast the number of questions asked on Stackoverflow in a given month.
+  - Project using Facebook's Prophet library to forecast the number of questions asked on StackOverflow in a given month.
   - Topics: Python, Docker, Prophet, Time-Series Forecasting
   <img src="img/time_series.png"  style="height:75%; width:75%" >
   
@@ -66,7 +66,7 @@ It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services
 
 **Marketing Analytics**
 
-  - Demo project to descriptively analyse marketing data for a fictitious company. Project contains a single, relatively clean dataset that is stored in a SQL database.
+  - Demo project to descriptively analyze marketing data for a fictitious company. Project contains a single, relatively clean dataset that is stored in a SQL database.
   - SQL Stored Procedure to setup database and clean reporting table
   - Power BI Dashboard connecting to reporting table
   - Topics: SQL, Power BI
@@ -76,7 +76,7 @@ It shows my Data Engineering skills using Python, dbt, Airflow, and AWS services
 
 <b>Training Record</b><br> 
 <br>
-I regularly keep myself updated with the latest trends and technologies in the fields of Data Analytics, Data Engineering and Science through various certifications and courses. Below are some example course I have completed:
+I regularly keep myself updated with the latest trends and technologies in the fields of Data Analytics, Data Engineering and Science through various certifications and courses. Below are some example courses I have completed:
  
 <B>Data Analysis</B><br>
 
