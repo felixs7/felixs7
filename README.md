@@ -27,7 +27,10 @@ It shows my technical ability around Data Preprocessing using Python, dbt, Airfl
 - The data is then loaded into Redshift, and a dbt model creates a reporting view for analysis.
 - The pipeline is orchestrated using Airflow, running on an Ubuntu EC2 instance.
 - The solution follows best practices for data engineering and supports both production and QA environments with separate S3 buckets and Redshift databases.
-![etl_airflow](img/dag_view.png)
+
+![etl_airflow](img/architecture_screenshot_high.png)
+![etl_airflow](img/Tableau-Workbook.png)
+![etl_airflow](img/airflow_new.png)
 
 
 **Marketing Analytics**
